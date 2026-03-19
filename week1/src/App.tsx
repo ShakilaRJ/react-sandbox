@@ -8,9 +8,9 @@ export default function App() {
       <h1 className="text-2xl font-bold mb-8 text-slate-700">Welcome to React!</h1>
       <Profile name="Shakila Ruwan" role="your role" />
       <div className="flex gap-4 mt-8">
-        <TeamCard name="Shakila" role="DEVELOPER" />
-        <TeamCard name="Hidula" role="DEVELOPER" />
-        <TeamCard name="Madushanka" role="DEVELOPER" />
+        <TeamCard name="Shakila" role="FRONTEND" />
+        <TeamCard name="Hidula" role="BACKEND" />
+        <TeamCard name="Madushanke" role="DESIGNER" />
       </div>
     </div>
   );
