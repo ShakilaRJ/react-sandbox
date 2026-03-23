@@ -1,0 +1,12 @@
+@import "tailwindcss";
+```
+
+Delete `src/App.css` and `src/assets/react.svg` (same cleanup as week 1).
+
+---
+
+## Step 2: Install React Router
+
+Still in the `week2` folder:
+```
+npm install react-router-dom
